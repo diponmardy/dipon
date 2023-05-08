@@ -1,0 +1,15 @@
+h1{ 
+    color: #1f1c1c;
+    font-size: 25 px;
+}
+label{ 
+    background-color: aqua;
+    font-size: 25 px;
+}
+body{ 
+    color: aquamarine;
+    font-size: 25 px;
+}
+a{
+    text-decoration: none;
+}
